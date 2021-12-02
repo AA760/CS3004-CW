@@ -1,3 +1,7 @@
+/*Some of the code for this class was taken from CS3004 Tutorial 4 (Prof. Simon Taylor). 
+ * The biggest exclusions for this are the add(), subtract(), transfer(), firstClient(), 
+ * secondClient(),  inputMoney() methods, and most of the processInput() method. 
+ */
 package cw;
 import java.net.*;
 import java.util.ArrayList;
